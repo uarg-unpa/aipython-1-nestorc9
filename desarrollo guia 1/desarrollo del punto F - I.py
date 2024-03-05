@@ -1,0 +1,1 @@
+print("Néstor", "Cortez", "16", "años",sep='_')
