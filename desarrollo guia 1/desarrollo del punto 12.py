@@ -1,0 +1,5 @@
+inversion=float(input("Ingrese el capital a invertir:"))
+tna=float(input("Ingrese el interes anual:"))
+años_a_invertir=float(input("Ingrese la cantidad de años en que lo va a invertir:"))
+capital_obtenido_inversion=((inversion)*(tna)/100)*(años_a_invertir)
+print(f"Su capital obtenido en la inversion es de: {capital_obtenido_inversion}")

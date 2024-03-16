@@ -1,0 +1,12 @@
+p1=float(input("Ingrese el valor del producto 1:$"))
+p2=float(input("Ingrese el valor del producto 2:$"))
+p3=float(input("Ingrese el valor del producto 3:$"))
+p4=float(input("Ingrese el valor del producto 4:$"))
+p5=float(input("Ingrese el valor del producto 5:$"))
+p6=float(input("Ingrese el valor del producto 6:$"))
+p7=float(input("Ingrese el valor del producto 7:$"))
+p8=float(input("Ingrese el valor del producto 8:$"))
+p9=float(input("Ingrese el valor del producto 9:$"))
+p10=float(input("Ingrese el valor del producto 10:$"))
+promedio=((p1)+(p2)+(p3)+(p4)+(p5)+(p6)+(p7)+(p8)+(p9)+(p10))/10
+print(f"El promedio del valor de los 10 productos es de:${promedio}")
