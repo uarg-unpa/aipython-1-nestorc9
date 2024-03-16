@@ -1,1 +1,1 @@
-print("Nombre","\t Edad Pais Ciudad","\nAlexa","\t 250 USA CapeCod")
+print("Nombre","\t Edad Pais Ciudad","\nAlexa","\t 250  USA  CapeCod")
