@@ -1,0 +1,28 @@
+numero1=int(input("Ingrese un número:"))
+numero2=int(input("Ingrese otro número:"))
+print(f"{numero1}+{numero2}={numero1+numero2}")
+print(f"{numero1}-{numero2}={numero1-numero2}")
+print(f"{numero1}*{numero2}={numero1*numero2}")
+print(f"{numero1}**{numero2}={numero1**numero2}")
+print(f"{numero1}%{numero2}={numero1%numero2}")
+#desarrollo punto 7
+print(f"{numero1}//{numero2}={numero1//numero2}")
+print(f"{numero1}/{numero2}={numero1/numero2}")
+#desarrollo punto 8
+lado1=int(input("Ingrese el valor de un lado del rectangulo:"))
+lado2=int(input("Ingrese el valor del otro lado del rectangulo:"))
+print("El area del rectangulo es:")
+print(f"{lado1}*{lado2}={lado1*lado2}")
+perimetro=(lado1)+(lado1)+(lado2)+(lado2)
+print("El perimetro del rectangulo es:")
+print(perimetro)
+radio=int(input("Ingrese el radio de la circunferencia:"))
+pi=3.14
+potencia=2
+print("El area del circulo es:")
+area_del_circulo=(pi)*(radio)**(potencia)
+print(area_del_circulo)
+diametro=int(input("Ingrese el diametro de la circunferencia:"))
+print("El perimetro de la circunferencia es:")
+perimetro_del_circulo=(pi)*(diametro)
+print(perimetro_del_circulo)

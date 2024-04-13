@@ -1,0 +1,1 @@
+lista=["nestor,", "16", "172cm", "soltero", "direccion"]
